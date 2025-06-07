@@ -1,0 +1,23 @@
+To install "Streamlit" use the command :
+pip install streamlit
+       or
+pip3 install streamlit
+
+To install "cv2" use the command :
+pip install opencv-python
+       or
+pip install opencv-contrib-python
+
+To install "NumPy" use the command :
+pip install numpy
+      
+To install "XGBoost" use the command :
+pip install xgboost
+
+To install "Ultralytics(YOLOv8)" use the command :
+pip install ultralytics
+
+ Verify YOLO is Installed :
+ yolo help
+
+
